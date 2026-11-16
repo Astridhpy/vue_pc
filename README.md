@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spy
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,7 @@ pnpm dev
 ```sh
 pnpm build
 ```
+=======
+# vue_pc
+主要技能html css javascript vue，创建自己的作品 
+>>>>>>> 9bfc96bb3314af4e6db90ba5125a26131e605116
